@@ -1,15 +1,14 @@
 <!-- _navbar.md -->
 
-* Getting started
+* On the Web
 
-  * [Quick start](quickstart.md)
-  * [Writing more pages](more-pages.md)
-  * [Custom navbar](custom-navbar.md)
-  * [Cover page](cover.md)
-
-* Configuration
-  * [Configuration](configuration.md)
-  * [Themes](themes.md)
-  * [Using plugins](plugins.md)
-  * [Markdown configuration](markdown.md)
-  * [Language highlight](language-highlight.md)
+  * [Twitter](https://twitter.com/iconifyit)
+  * [Github](https://github.com/iconifyit)
+  * [Atomic Lotus](https://atomiclotus.net)
+  * [Diversity Avatars](https://diversityavatars.com)
+  * [Vector Icons](https://vectoricons.net)
+  * [Iconfinder](https://iconfinder.com/iconify?ref=iconify)
+  
+* Contact
+  * [Twitter](https://twitter.com/iconifyit)
+  * [Email](https://atomiclotus.net/contact)
