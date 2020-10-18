@@ -5,3 +5,7 @@ img[src*="#half-size"] {
 .centered {
     text-align : center;
 }
+
+aside.sidebar {
+    padding-left: 20px;
+}
