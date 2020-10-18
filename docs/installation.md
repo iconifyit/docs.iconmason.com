@@ -5,7 +5,7 @@ Mason has two (2) methods of installation. Choose the one that works best for yo
 # Install from Adobe Exchange
 The easiest way to install Icon Mason is through the Adobe Exchange marketplace. Navigate to [Icon Mason on Exchange](https://exchange.adobe.com/creativecloud.details.103891.icons8.html) and click the "Install" button. Creative Cloud will install the extension and sync it to your local file system.
 
-![Adobe Exchange](./images/adobe-exchange.png)
+** IMAGE COMING **
 
 # Manually Install a ZXP File
 
