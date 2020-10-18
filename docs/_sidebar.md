@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-[&#8592; Back to Site](https://iconmason.com)
+&nbsp;&nbsp;[&#8592; Back to Site](https://iconmason.com)
 * [Home](/)
 * [__Installation__](installation.md)
 * [__Open IconJar, ZIP, or Folder__](open-iconjar.md)
