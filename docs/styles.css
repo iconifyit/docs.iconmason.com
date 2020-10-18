@@ -1,0 +1,7 @@
+img[src*="#half-size"] {
+    width  : 529px;
+}
+
+.centered {
+    text-align : center;
+}
