@@ -1,6 +1,7 @@
 <!-- docs/_sidebar.md -->
 
-&nbsp;&nbsp;[&#8592; Back to Site](https://iconmason.com)
+[&#8592; Back to Site](https://iconmason.com)
+
 * [Home](/)
 * [__Installation__](installation.md)
 * [__Open IconJar, ZIP, or Folder__](open-iconjar.md)
@@ -24,5 +25,6 @@
     * [Delete Icons](delete-icons.md)
 * [__Install Free Icons__](free-icons.md)    
 * [__Roadmap__](roadmap.md)    
+* [__Disclosures__](disclosures.md)    
 
 

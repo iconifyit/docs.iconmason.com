@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <title>Document</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
   <link rel="stylesheet" href="./styles.css">
 
-  <meta property=”og:type” content=”website” />
+  <meta property=”og:type” content=”website”>
   <meta property="og:title"       content="Icon Mason - Open, Edit, and Create IconJar files in Illustrator">
   <meta property="og:description" content="Icon Mason allows you to open, edit, and create IconJar and ZIP archives of icons directly in Illustrator">
   <meta property="og:image"       content="https://iconifyit.github.io/mason/#/mason-social-01.png">
@@ -18,6 +18,16 @@
   <meta property="og:site_name"   content="Icon Mason User's Guide">
   <meta name="twitter:image:alt"  content="Icon Mason Adobe Illustrator Palette">
   <meta name="twitter:site"       content="@iconifyit">
+
+  <!-- Material Design Icons -->
+<!--  <link rel="stylesheet" href="//unpkg.com/@fortawesome/fontawesome-free/css/fontawesome.css">-->
+<!--  <link rel="stylesheet" href="//unpkg.com/@fortawesome/fontawesome-free/css/brands.css">-->
+<!--  <link rel="stylesheet" href="//unpkg.com/@fortawesome/fontawesome-free/css/regular.css">-->
+<!--  <link rel="stylesheet" href="//unpkg.com/@fortawesome/fontawesome-free/css/solid.css">-->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp" rel="stylesheet">
+
+  <!-- Top Banner Plugin -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/style.css">
 </head>
 <body>
   <div id="app"></div>
@@ -26,9 +36,10 @@
       name: `Icon Mason User's Guide`,
       repo: false, // 'https://github.com/iconifyit/mason.git',
       loadSidebar: true,
+      loadNavbar : true,
+      loadFooter : true,
       subMaxLevel : 1,
-      auto2top: true,
-      loadNavbar: true
+      auto2top: true
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
@@ -46,5 +57,9 @@
       })
     })(jQuery.noConflict());
   </script>
+<!--  <script src="//unpkg.com/docsify-fontawesome/dist/docsify-fontawesome.min.js"></script>-->
+  <script src="//unpkg.com/docsify-material-icons/dist/docsify-material-icons.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/index.js"></script>
+<!--  <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>-->
 </body>
 </html>
