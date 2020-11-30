@@ -4,5 +4,8 @@ Version 1.0 of Icon Mason is only the beginning. The items below are in no parti
 
 - Add back-end support for cloud storage of your icons (DropBox, GitHub, and Amazon AWS storage)
 - Incorporate even more of IconJar's core features
+- Export SVG icons as React components
+- Export IconJar library as a single React component with easy switching between icons via prop setting
 - Add SVG optimization 
 - Add Adobe PhotoShop, Adobe InDesign, Adobe XD, Sketch, and Figma support
+- Web-based app
