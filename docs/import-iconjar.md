@@ -8,4 +8,4 @@ Keep in mind that Illustrator, as of October, 2020 allows a maximum of 1,000 art
 
 In order for Icon Mason to import a ZIP archive of icons, the icons must be contained inside of a folder named `icons` inside of the ZIP archive.
 
-![Import IconJar, ZIP, or folder](./images/import-iconjar.png#half-size)
+![Import IconJar, ZIP, or folder](docs/images/import-iconjar.png#half-size)

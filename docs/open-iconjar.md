@@ -4,7 +4,7 @@ Icon Mason can open IconJar and ZIP archives* as well as regular folders of SVG 
 
 It is important to note that Icon Mason does not modify or open the original IconJar. It makes a copy to its data folder to preserve the integrity of your original IconJar file. Icon Mason will never modify or alter your original. This is important to remember when you want to make changes.
 
-![Open IconJar](./images/open-iconjar.png#half-size)
+![Open IconJar](https://docs.iconmason.com/images/open-iconjar.png#half-size)
 
 ## About ZIP archives
 
@@ -14,4 +14,4 @@ In order for Icon Mason to import a ZIP archive of icons, the icons must be cont
 
 Icon Mason can also open regular folders containing SVG icons. Hold down the Command key on Mac or Control Key on Windows while clicking the `Open IconJar` button. The button text should change to `Open Folder` when you mouse over it.
 
-![Open Folder](./images/open-folder.png#half-size)
+![Open Folder](https://docs.iconmason.com/images/open-folder.png#half-size)

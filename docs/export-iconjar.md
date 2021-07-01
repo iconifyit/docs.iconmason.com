@@ -6,4 +6,4 @@ The icon files will be named using the artboard names. Additionally, the icon ta
 
 When exporting to ZIP format, the icons will be copied to a folder named `icons` inside the ZIP and the archive metadata will be stored in a file named `META.json`.
 
-![Export IconJar](./images/export-iconjar.png#half-size)
+![Export IconJar](https://docs.iconmason.com/images/export-iconjar.png#half-size)

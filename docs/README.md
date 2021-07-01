@@ -6,7 +6,7 @@ Icon Mason is not a replacement for IconJar. Quite the contrary. Icon Mason is a
 
 ## Features Overview
 
-![Tux, the Linux mascot](./images/mason-palette.png#half-size)
+![Tux, the Linux mascot](https://docs.iconmason.com/images/mason-palette.png#half-size)
 
 Icon Mason makes it easy to organize and interact with icons inside of Illustrator. The extension can read [IconJar](https://a.paddle.com/v2/click/17524/112343?link=2979) archives, ZIP archives, as well as the file system. You can easily drag-and-drop icons one-at-a-time from the Icon Mason palette or import all of the icons to individual artboards.
 

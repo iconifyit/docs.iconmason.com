@@ -4,7 +4,7 @@ Icon Mason has two different types of menus. See the details of each below.
 
 # Flyout Menu
 
-![Flyout Menu](./images/flyout-menu.png#half-size)
+![Flyout Menu](https://docs.iconmason.com/images/flyout-menu.png#half-size)
 
 The Flyout Menu can be accessed via the `hamburger` menu icon in the upper right corner of the Icon Mason palette. The Flyout Menu contains menu items related to the global extension.
 
@@ -14,7 +14,7 @@ The Flyout Menu can be accessed via the `hamburger` menu icon in the upper right
 
 # Context Menu
 
-![Context Menu](./images/context-menu.png#half-size)
+![Context Menu](https://docs.iconmason.com/images/context-menu.png#half-size)
 
 The context menu, accessed by right-clicking on any of the icons in the icon grid, shows controls for manipulating icons and saving the currently-selected IconJar.
 

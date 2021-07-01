@@ -4,4 +4,4 @@ Icon Mason uses fuzzy search to search your icon archive. This means that you do
 
 **Advanced Tip** You can customize the fuzzy search in Icon Mason by adding a [Settings](settings.md) file (learn more by clicking the link).
 
-![Search IconJar](./images/iconjar-search.png#half-size)
+![Search IconJar](https://docs.iconmason.com/images/iconjar-search.png#half-size)
