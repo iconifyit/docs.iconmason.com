@@ -32,4 +32,4 @@ The context menu, accessed by right-clicking on any of the icons in the icon gri
 - Add Selection : Add the selected object to the visible IconJar as a new icon
 - Replace Icon : Replace the clicked icon by selecting a new icon from your file system
 - --
-- Delete Icon : Delete the clicked icon from the IconJar
+- Delete Icon : Delete the clicked icon from the IconJar`
