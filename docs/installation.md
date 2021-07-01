@@ -13,4 +13,4 @@ If you downloaded the ZXP archive from either Adobe Exchange or another marketpl
 
 **NOTE** If you choose to manually install the extension, you will need to obtain a license key from [AEScripts.com](https://aescripts.com)
 
-![ZXP Installer UI](images/zxpinstaller.png#half-size)
+![ZXP Installer UI](/images/zxpinstaller.png#half-size)
