@@ -6,7 +6,7 @@
 * [__Installation__](installation.md)
 * [__Open IconJar, ZIP, or Folder__](open-iconjar.md)
 * [__Import IconJar, ZIP, or Folder__](import-iconjar.md)
-* [__Export IconJar or ZIP__](export-iconjar.md)
+* [__Export IconJar, IconSet, or ZIP__](export-iconjar.md)
 * [__Search__](search.md)
 * [__Menus__](menus.md)
 * __IconJars__

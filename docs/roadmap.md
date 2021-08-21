@@ -9,3 +9,4 @@ Version 1.0 of Icon Mason is only the beginning. The items below are in no parti
 - Add SVG optimization 
 - Add Adobe PhotoShop, Adobe InDesign, Adobe XD, Sketch, and Figma support
 - Web-based app
+- Integration with various icon marketplaces for even more free and premium icons
